@@ -4,7 +4,7 @@
 #
 Name     : R-arsenal
 Version  : 3.6.3
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/arsenal_3.6.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/arsenal_3.6.3.tar.gz
 Summary  : An Arsenal of 'R' Functions for Large-Scale Statistical
